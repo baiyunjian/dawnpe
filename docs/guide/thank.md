@@ -10,8 +10,10 @@ layout: doc
 @[kuer](http://bbs.wuyou.net/home.php?mod=space&uid=803382) —— 10&11PE内核<br>
 
 @[无垠](http://bbs.wuyou.net/home.php?mod=space&uid=88517) —— 08PE内核
-## 站点服务
-@[安全引导](https://space.bilibili.com/556346041) —— 天使投资人<br>
+## 站点文档
+@[安全引导](https://space.bilibili.com/556346041) —— 天使投资人 & 文档编写<br>
+
+@[爱玩电脑的命令提示符](https://glasspe.cn) —— 技术指导 & 文档编写<br>
 
 @土冠丰 —— 服务器提供<br>
 
