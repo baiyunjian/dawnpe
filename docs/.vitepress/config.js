@@ -6,7 +6,7 @@ export default defineConfig({
   description: "操作简单|功能强大|兼容性强的全新PE工具箱",
   head: [
     ['meta', { name: 'keywords', content: 'DawnPE,破晓PE,PE,维护系统,晨云网络' }], 
-    ['link', { rel: 'icon', type: 'image/x-icon', href: 'https://dawnpe.com/data/image/favicon.ico' }]
+    ['link', { rel: 'icon', type: 'image/x-icon', href: 'https://dawnpe.com/data/img/favicon.ico' }]
   ],
   themeConfig: {
     logo: 'https://i.imgtg.com/2023/08/01/OnbM1C.png', 
