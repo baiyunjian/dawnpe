@@ -7,7 +7,9 @@ layout: doc
 
 @[slore](http://bbs.wuyou.net/home.php?mod=space&uid=166812) —— WinXShell作者<br>
 
-@[kuer](http://bbs.wuyou.net/home.php?mod=space&uid=803382) —— 10&11PE内核<br>
+@[Lightning](http://bbs.wuyou.net/home.php?mod=space&uid=757909)  —— 11PE内核<br>
+
+@[kuer](http://bbs.wuyou.net/home.php?mod=space&uid=803382) —— 10PE内核<br>
 
 @[无垠](http://bbs.wuyou.net/home.php?mod=space&uid=88517) —— 08PE内核
 ## 站点文档
