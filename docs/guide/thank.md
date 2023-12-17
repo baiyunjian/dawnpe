@@ -34,6 +34,8 @@ layout: doc
 @[VirtualHotBar](https://blog.hotpe.top) —— 应用商店及HPM模块作者<br>
 
 @[yukaidi](https://yukaidi.top) —— 在线装机软件作者
+
+@[Panda](https://www.pandadatech.cn) —— PE制作 & 美化指导
 ## 文档版式
 @[HotPE Docs](https://docs.hotpe.top/) —— 板块分类参考<br>
 
