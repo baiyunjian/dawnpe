@@ -15,12 +15,12 @@ layout: doc
 
 ### 3.PE文件损坏
 
-解决方案：1.3.0的SHA-256哈希值为：f15cd5a3ceab13b1ca2f7f1b961436b6280cd8fe9137c92dfd8585e08ea95eee，请检查你下载的压缩包哈希值是否与以上哈希值一致。
+解决方案：Ver 1.3.3的SHA-256哈希值为：546b52d1f95222f3734a9230ffb8324750866217f1762468bb874f873a774d29，请检查你下载的压缩包哈希值是否与以上哈希值一致。
 
 可以在压缩包所在的目录打开cmd，执行：
 
 ```
-certutil -hashfile DawnPE_V1.3.0.7z sha256
+certutil -hashfile DawnPE_V1.3.3.7z sha256
 ```
 
 ### 4.U盘容量过小/存在扩容/质量低劣
