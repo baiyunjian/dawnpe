@@ -7,11 +7,15 @@ layout: doc
 
 @[slore](http://bbs.wuyou.net/home.php?mod=space&uid=166812) —— WinXShell作者<br>
 
-@[Lightning](http://bbs.wuyou.net/home.php?mod=space&uid=757909)  —— 11PE内核<br>
+@[826773297](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=433820)  —— 11PE构建器 [现]<br>
 
-@[kuer](http://bbs.wuyou.net/home.php?mod=space&uid=803382) —— 10PE内核<br>
+@[Liangnijian](http://www.fengpe.top) —— 11PE精简配置 [现]<br>
 
-@[无垠](http://bbs.wuyou.net/home.php?mod=space&uid=88517) —— 08PE内核
+@[Lightning](http://bbs.wuyou.net/home.php?mod=space&uid=757909)  —— 11PE内核 [原]<br>
+
+@[kuer](http://bbs.wuyou.net/home.php?mod=space&uid=803382) —— 10PE、11PE内核 [原]<br>
+
+@[无垠](http://bbs.wuyou.net/home.php?mod=space&uid=88517) —— 08PE内核 [原]
 ## 站点文档
 @[安全引导](https://space.bilibili.com/556346041) —— 天使投资人 & 文档编写<br>
 
@@ -36,6 +40,12 @@ layout: doc
 @[yukaidi](https://yukaidi.top) —— 在线装机软件作者
 
 @[Panda](https://www.pandadatech.cn) —— PE制作 & 美化指导
+
+@[Liangnijian](http://www.fengpe.top) —— 11PE 系统属性 原作者
+
+@[深谷憂狼](http://bbs.wuyou.net/?485210) —— PE问题指导
+
+@[我是小青蛙](http://bbs.wuyou.net/?752347) —— PE问题指导
 ## 文档版式
 @[HotPE Docs](https://docs.hotpe.top/) —— 板块分类参考<br>
 
