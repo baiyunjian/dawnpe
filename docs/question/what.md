@@ -29,7 +29,7 @@ PE是Windows预安装环境（Windows Preinstallation Environment，也可简称
 
 ### 1.体积小巧，极致精简
 
-以DawnPE为例，ISO镜像大小仅有800多MB，方便携带的同时也缩短了启动所需的时间。
+以DawnPE为例，ISO镜像大小仅有600多MB，方便携带的同时也缩短了启动所需的时间。
 
 ### 2.内存启动，脱离磁盘
 
