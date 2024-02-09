@@ -85,7 +85,7 @@ export default defineConfig({
     
     footer: {
        message: 'Powered By VitePress, Supported By 白云间&安全引导.',
-       copyright: 'CopyRight © 2023 ChenYun Network.', 
+       copyright: 'CopyRight © 2020-Present ChenYun Network.', 
     }
   }
 })
