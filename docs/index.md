@@ -6,7 +6,7 @@ hero:
   text: "破晓PE工具箱"
   tagline: 操作简单|功能强大|兼容性强的全新PE工具箱
   image:
-    src: https://dawnpe.com/image/favicon.ico
+    src: https://i.imgtg.com/2023/08/01/OnbM1C.png
     alt: DawnPE Logo
   actions:
     - theme: brand
