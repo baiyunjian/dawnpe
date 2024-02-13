@@ -17,8 +17,8 @@ DawnPE目前为11PE单内核，仅支持新机器与部分旧机器，减轻维�
 
 · Win 10 PE x86 [历史版本]：
 
-![图片](https://dawnpe.com/data/img/10pe-231217.webp)
+![图片](https://dawnpe.com/image/dawnpe/10pe-231217.webp)
 
 · Win 11 PE x64 [最新版本]：
 
-![图片](https://dawnpe.com/data/img/11pe-240205.webp)
+![图片](https://dawnpe.com/image/dawnpe/11pe-240205.webp)
