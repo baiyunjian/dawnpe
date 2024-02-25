@@ -25,7 +25,9 @@ layout: doc
 
 @[GitHub Pages](https://github.com) —— 本文档托管
 ## 软件方案
-@[雅铭居士](https://www.wk78.com/?2) —— DawnStartup原作者<br>
+@[Liangnijian](http://www.fengpe.top) —— DawnStartup源码 [现]<br>
+
+@[雅铭居士](https://www.wk78.com/?2) —— DawnStartup作者 [原]<br>
 
 @[Ventoy](https://ventoy.net) —— Ventoy原作者<br>
 
@@ -40,8 +42,6 @@ layout: doc
 @[yukaidi](https://yukaidi.top) —— 在线装机软件作者
 
 @[Panda](https://www.pandadatech.cn) —— PE制作 & 美化指导
-
-@[Liangnijian](http://www.fengpe.top) —— 11PE 系统属性 原作者
 
 @[深谷憂狼](http://bbs.wuyou.net/?485210) —— PE问题指导
 
