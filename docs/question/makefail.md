@@ -15,10 +15,10 @@ layout: doc
 
 ### 3.PE文件损坏
 
-解决方法：可以在压缩包所在的目录打开cmd，执行：
+解决方法：可以在压缩包所在的目录打开cmd，执行下列命令以检验压缩包完整性：
 
 ```
-certutil -hashfile DawnPE_V1.3.3.7z sha256
+certutil -hashfile DawnPE_V1.3.4.7z sha256
 ```
 
 ### 4.U盘容量过小/存在扩容/质量低劣
